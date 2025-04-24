@@ -119,10 +119,13 @@ for (int i = 0; i < NUM_LOOPS; i++) {
 
 
 ## OUTPUT
+
 $ ./sem.o 
+
 ![IMG 1](IMG/Semaphore1.png)
 
 $ ipcs
+
 ![IMG 2](IMG/Semaphore2.png)
 
 
