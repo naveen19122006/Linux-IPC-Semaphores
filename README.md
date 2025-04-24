@@ -120,11 +120,10 @@ for (int i = 0; i < NUM_LOOPS; i++) {
 
 ## OUTPUT
 $ ./sem.o 
-/home/naveen140419/os/EX05/Linux-IPC-Semaphores/IMG/Semaphore1.png
+![Alt text](/home/naveen140419/os/EX05/Linux-IPC-Semaphores/IMG/Semaphore1.png)
 
 $ ipcs
-
-/home/naveen140419/os/EX05/Linux-IPC-Semaphores/IMG/Semaphore2.png
+![Alt text](/home/naveen140419/os/EX05/Linux-IPC-Semaphores/IMG/Semaphore2.png)
 
 
 
